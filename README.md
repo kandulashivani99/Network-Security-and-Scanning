@@ -1,9 +1,5 @@
 # 🛡️ Network Security & Scanning
 
-\<p align="center">   \<strong>Cybersecurity Internship — Task 2\</strong>\<br>   Network Reconnaissance | Vulnerability Assessment | Traffic Analysis | Firewall Security \</p>
-
-\<p align="center">   \<img src="[https://img.shields.io/badge/Domain-Cybersecurity-0A66C2?style=for-the-badge](https://img.shields.io/badge/Domain-Cybersecurity-0A66C2?style=for-the-badge)" alt="Cybersecurity">   \<img src="[https://img.shields.io/badge/Focus-Network%20Security-198754?style=for-the-badge](https://img.shields.io/badge/Focus-Network%20Security-198754?style=for-the-badge)" alt="Network Security">   \<img src="[https://img.shields.io/badge/Environment-Lab%20Based-6F42C1?style=for-the-badge](https://img.shields.io/badge/Environment-Lab%20Based-6F42C1?style=for-the-badge)" alt="Lab Based">   \<img src="[https://img.shields.io/badge/Documentation-Markdown-black?style=for-the-badge](https://img.shields.io/badge/Documentation-Markdown-black?style=for-the-badge)" alt="Markdown"> \</p>
-
 ---
 
 ## 📌 Project Overview
@@ -271,7 +267,3 @@ The documented findings represent the observations from the practical exercises 
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Network Security & Scanning | Cybersecurity Internship – Task 2\</strong>\<br>
-&#x20; Learning • Testing • Analyzing • Documenting
-\</p>
